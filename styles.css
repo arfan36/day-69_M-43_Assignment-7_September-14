@@ -33,11 +33,11 @@ body {
 }
 
 #display {
-  height: 100px;
+  min-height: 100px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  padding-left: 5rem;
+  padding-left: .5rem;
   color: white;
   font-size: 32px;
   background-color: #171717;
